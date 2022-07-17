@@ -1,6 +1,6 @@
 module github.com/buchongyu2/kubernetes-tookit
 
-go 1.16
+go 1.17
 
 replace (
 	k8s.io/api => k8s.io/api v0.0.0-20190620084959-7cf5895f2711
